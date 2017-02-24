@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dr. Janie
-email: your-email@domain.com
+site: https://github.com/drjanieforbes
 description: > # this means to ignore newlines until "baseurl:"
   My research interests include data visualization, dashboard development, knowledge management, using R or Python. I am a geographic information scientist with interests in demographics, and human-environmental interaction.
 baseurl: "" # the subpath of your site, e.g. /blog
