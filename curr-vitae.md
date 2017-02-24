@@ -1,7 +1,7 @@
 ## Curriculum Vitae
 
 #### RESEARCH INTERESTS
-I am a geospatial data scientist and desire to apply my knowledge and education towards developing solutions of interest to science, management, or policy.  My areas of interest include complexity theory, scale theory, and spatial-temporal analysis and visualization, especially for questions pertaining to human-environment interaction.
+I am a geospatial data scientist seeking to apply my knowledge and education towards developing solutions of interest to science, management, or policy.  My areas of interest include complexity theory, scale theory, and spatial-temporal analysis and visualization, especially for questions pertaining to human-environment interaction.
 
 #### EDUCATION
 2014 - Ph.D. Geosciences, Florida Atlantic University – 3.91 GPA
@@ -76,25 +76,34 @@ Forbes, D., & C. Roberts. (2011). Multi-temporal Composite Trend Classification 
 #### PRESENTATIONS
 2014 - Annual Meeting of the Association of American Geographers
 Paper Presentation – “Disaggregating GDP in Florida for Socio-Ecological Research”
+
 2014 - Annual Meeting of the Florida Society of Geographers
 Paper Presentation – “Scale Dependence in Social-Ecological Water Quality Processes in the Florida Indian River Lagoon (IRL) System”
+
 2013 - SEDAAG Annual Meeting
 Student Honors Paper Presentation - “Disaggregating GDP in Florida for Socio-Ecological Research”
+
 2013 - NASA Florida Space Grant Consortium Annual Board of Directors Meeting
 Invited Presentation – “Scale Dependence in Social-Ecological Water Quality Processes in the Florida Indian River Lagoon (IRL) System”
+
 2013 - 36th Annual Applied Geography Conference
 Paper Presentation – “The Sunshine State, GDP, and the DMSP-OLS: Time Series Trend Case Study”
+
 2012 - SEDAAG Annual Meeting
 Student Honors Paper Presentation – “Multi-scale Multi-Temporal Analysis of DMSP-OLS Night Light Images and Economic Activity in the United States”
+
 2011 - SEDAAG Annual Meeting
 Student Honors Paper Presentation – “Statistical Analysis between the DMSP-OLS Night Light Images and Economic Activity in Florida”
+
 2011 - 34th Annual Applied Geography Conference
 Paper Presentation – “Statistical Correlation between Economic Activity and the DMSP-OLS Night Light Images in Florida”
+
 2011 - Annual Meeting of the Florida Society of Geographers
 Poster Presentation "Statistical Correlation between DMSP-OLS Night Light Data and Economic Activity in Florida"
 
 #### SERVICE TO PROFESSION
 Journal manuscript reviews for:
+
 Geography Compass
 Planning and Environment A
 The 2014 Papers of the Applied Geography Conference
@@ -102,32 +111,47 @@ GIScience & Remote Sensing.
 
 #### PROFESSIONAL AFFILIATIONS
 American Association of Geographers
+
 Southeastern Division of the American Association of Geographers
+
 Florida Society of Geographers
+
 Southeast Florida GIS Users Group
+
 International Dark-Sky Association, South Florida Chapter
 
 #### RELATED PROFESSIONAL SKILLS
 I am proficient in data transformation, data handling, data manipulation, and data analysis, based on years of experience in programming. My current programming/scripting proficiencies are in Python and open source R (The R Project for Statistical Computing), with experience in Matlab (including image processing) and previous experience in FORTRAN.
+
 For spatial and image analysis, I am proficient in ESRI ArcGIS 9.x/10.x.  I am proficient in ERDAS Imagine; and ENVI for image analysis and processing. For statistical analysis, I am proficient with SPSS and R. For spatial statistical analysis I am proficient in both ArcGIS/ArcINFO and R. In addition to these proficiencies, I am familiar with Definiens eCognition for object-based image analysis, and the use of both ArcGIS and FUSION for LiDAR data analysis. I am also proficient in the Microsoft Office suite of products, as well as having basic familiarity with HTML, CSS, and Javascript/JQuery.
 
 #### EMPLOYMENT HISTORY
-Tutor (Current)
+Geographer
+US Census Bureau, Suitland, Maryland
+
+Tutor
 Course Hero, Mountain View, California
+
 Teaching Assistant (Fall 2014) 
 Florida Atlantic University Department of Geosciences
+
 NASA Florida Space Grant Fellow (2011-2014) 
 Florida Atlantic University Department of Geosciences
+
 Teaching Assistant (2009-2011) 
 Florida Atlantic University Department of Geosciences
+
 Self Employed (1999-2009) 
 Developed and maintained Internet-based e-commerce catalog (horse themed gifts), gaining valuable business and customer service expertise as well as skills in developing and maintaining websites 
+
 Teacher (2001-2002)
 Warren County Public Schools, Front Royal, Virginia
 Secondary Mathematics teacher (Algebra I, Geometry A)
+
 Cartographer Trainee (2000-2001)
 GeoDigital Mapping, Inc., Front Royal, Virginia
 Photo-revised hydrography data for the Texas STRATMAP project
+
 Student Lab Technician (1999-2001) 
 Shenandoah University, Winchester, Virginia
 Maintained University computer labs and assisted faculty/students/users
