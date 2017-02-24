@@ -4,7 +4,7 @@ title:  "Welcome to my research blog!"
 date:   2017-02-24 14:30:05 -0500
 categories: jekyll update
 ---
-What I hope to accomplish with this blog is to feature open-access research projects that I am currently working on.
+What I hope to accomplish with this blog is to feature and share open-access research projects that I am currently working on.
 
 This site is built with Jekyll, which offers powerful support for code snippets:
 
@@ -40,11 +40,9 @@ except ValueError:
 print('%s + %s is: %s' %(str(x),str(y),str(z)))
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+(Note to self:  to add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.)
 
-#To add new posts, simply add a file in the `_posts` directory that follows the #convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. #Take a look at the source for this post to get an idea about how it works.
-
-Visit [my github][mygithub]
+Visit [my github][mygithub] pages for code, versioning and documentation.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
